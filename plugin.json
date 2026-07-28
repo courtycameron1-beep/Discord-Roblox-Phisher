@@ -1,0 +1,8 @@
+{
+    "name": "Discord-Roblox-Phisher",
+    "author": "courtycameron1-beep",
+    "category": "Stealer",
+    "version": "1.0",
+    "github": "https://github.com/courtycameron1-beep/Discord-Roblox-Phisher",
+    "requires": ["requests", "psutil"]
+}
